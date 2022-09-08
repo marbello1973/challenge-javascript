@@ -34,6 +34,9 @@ const {
 
 function exponencial(exp) {
 
+    return exponencial{
+        return exp * exp;
+    }
 }
 
 // ----- Recursión -----
